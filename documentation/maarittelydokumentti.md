@@ -26,6 +26,7 @@ n on solmujen lkm ja m on kaarien lukumäärä.
 
 Tietorakenteet ja Algoritmit kirja (Antti Laaksonen 2020)
 
-(Dijkstra's algorithm)[https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) Wikipedia
+[Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) Wikipedia
 
-(Introduction to A*)[http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html]
+[Introduction to A*](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
+
