@@ -1,5 +1,7 @@
 # Viikkoraportti 1
 
+## Käytetty aika?
+
 ## Mitä olen tehnyt tällä viikolla?
 
 ## Miten ohjelma on edistynyt?
