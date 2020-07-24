@@ -30,3 +30,4 @@ Tietorakenteet ja Algoritmit kirja (Antti Laaksonen 2020)
 
 [Introduction to A*](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
 
+[Kartat](https://www.movingai.com/benchmarks/grids.html)
