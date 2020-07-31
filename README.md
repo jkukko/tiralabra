@@ -9,3 +9,5 @@ Tietorakenteet ja algoritmit harjoitustyö loppukesä 2020
 ## Viikkoraportit
 
 [Viikko 1](https://github.com/jkukko/tiralabra/blob/master/documentation/viikkoraportit/viikkoraportti1.md)
+
+[Viikko 2](https://github.com/jkukko/tiralabra/blob/master/documentation/viikkoraportit/viikkoraportti2.md)
