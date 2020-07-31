@@ -14,7 +14,12 @@ import static org.junit.Assert.*;
  */
 public class astarTest {
     
+    astar a;
+    
     public astarTest() {
     }
     
+    public void palauttaaOikean() {
+        assertEquals(1, a.testaus());
+    }
 }
