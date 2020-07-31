@@ -3,12 +3,12 @@
 ## Sovelluksen tarkoitus
 
 Sovelluksen tarkoitus on verrata reittihakualgortimien tehokkuutta.
-Aluksi toteutan Dijkstran ja  A* algoritmit ja vertailen näiden tehokkuutta.
+Aluksi toteutan Jump Point Search  ja  A* algoritmit ja vertailen näiden tehokkuutta.
 Jos aika riitää, lisään joko Bellmanin ja Fordin algoritmin tai Floyd ja Warshallin algoritmin,
 
 ## Algoritmit ja tietorakenteet
 
-Käytän Dijkstran ja A* algoritmejä.
+Käytän Jump Point Search  ja A* algoritmejä.
 Ensimmäinen käyttää tietorankenteena minimikekoa.
 Jälkimmäisessä käytetään myös minimikekoa sekä sen lisäksi heuristiikkafunktiota.
 
@@ -31,3 +31,6 @@ Tietorakenteet ja Algoritmit kirja (Antti Laaksonen 2020)
 [Introduction to A*](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
 
 [Kartat](https://www.movingai.com/benchmarks/grids.html)
+
+[Jump Point Search](https://en.wikipedia.org/wiki/Jump_point_search)
+
